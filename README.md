@@ -1,17 +1,8 @@
-# document_scan_app
+# Document_scan_app
 
-A new Flutter project.
+## 개요
 
-## Getting Started
+종이 문서를 스캔하는 딥러닝을 이용한 카메라 앱입니다.
+cross-platform software 로써, Android, iOS 에서 모두 사용가능합니다.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Document-scan-app
